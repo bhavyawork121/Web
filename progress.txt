@@ -32,3 +32,17 @@ Holds everything visible on the webpage (text, images, links, etc.)
 <sup> – Superscript text (e.g., x²)
 
 
+{Day--2 key learnings}
+
+header
+main
+footer
+target in anchor tag
+clickable images
+div tag
+color tag for body color: ___
+color tag in div background color:___
+
+two types of elements:- block   inline
+                        div     span
+                        
