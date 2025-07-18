@@ -1,0 +1,34 @@
+🌐 HTML - HyperText Markup Language
+
+{Day--1 key learnings}
+
+HTML is the standard language used to create and structure content on the web.
+
+🧠 Basic Tags You Should Know
+
+🔹 <head> – Head Section
+
+Contains metadata like title, links to stylesheets, scripts, etc.
+
+It does NOT display on the webpage itself.
+
+🔹 <body> – Body Section
+
+Holds everything visible on the webpage (text, images, links, etc.)
+
+🏷️ Common HTML Tags & Their Uses
+
+<h1> to <h6> – Headings (from largest to smallest)
+<p> – Paragraph
+<pre> – Preformatted text (preserves spaces & line breaks)
+<b> – Bold text (visual only)
+<i> – Italic text (visual only)
+<u> – Underlined text
+<small> – Smaller text
+<big> – Larger text (⚠️ Deprecated in HTML5)
+<img src="image.jpg"> – Inserts an image
+<a href="url">Link</a> – Anchor tag to create hyperlinks
+<sub> – Subscript text (e.g., H₂O)
+<sup> – Superscript text (e.g., x²)
+
+
